@@ -1,4 +1,4 @@
-from ColourCode import MAJOR_COLORS, MAJOR_COLORS, color_pair_to_string
+from ColourCode import MAJOR_COLORS, MINOR_COLORS, color_pair_to_string
 def reference_manual_generator():
     pair_number = 1
     reference ={}
